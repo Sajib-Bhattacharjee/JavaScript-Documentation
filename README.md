@@ -4330,38 +4330,9 @@ linkTextElement.removeAttribute("href");
 
 Great Job! Thank You for looking into JavaScript for Beginners. I hope you enjoyed and learned a lot out of it. I think Now you have better understandings of how JavaScript works and functions. To learn more about JavaScript visit [Mozilla JavaScript Reference Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 
-<!--
-Local and Session Storage
-
-- In `Browser -> Inspect Element -> Console Panel` -> Type `Window`, check different properties and methods available -> localStorage
-
-- In `Browser -> Inspect Element -> Application -> Storage - Local Storage and/or Session Storage
-
-- Local Storage
-
-```js
-
-
-
-
-
-// set local storage item
-
-localStorage.setItem('name', 'Dinanath');
-
-```
-
-- Session Storage
-
-```js
-
-// set session storage item
-
-sessionStorage.setItem('lastName', 'Jayaswal');
-
-```
-
--->
+ 
+ 
+ 
 
 ### `Collected`
 
